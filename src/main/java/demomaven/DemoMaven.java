@@ -9,7 +9,7 @@ public class DemoMaven {
 	public boolean unusedMethod(boolean k) {
 		
 		k = true;
-		int k2 = 8:
+		int k2 = 8;
 		
         
 		return k;
