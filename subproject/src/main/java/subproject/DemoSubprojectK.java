@@ -13,7 +13,7 @@ public class DemoSubprojectK {
 	//multiple simultaneous callers may see partially initialized objects
 
  public static DemoSubproject getFoo() { 
-	    System.out.println("");   
+	    System.out.println("");    
 	    System.out.println("");
 	    System.out.println(""); 
 	    System.out.println("");
