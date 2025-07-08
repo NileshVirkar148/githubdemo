@@ -12,6 +12,10 @@
 	<artifactId>subproject2</artifactId>
 	<packaging>pom</packaging>
 	<name>subproject2</name>
+
+	<properties>
+		<sonar.java.binaries>target/classes</sonar.java.binaries>
+	</properties>
 	
 	<modules>
 		<module>subproject2_A/subproject2_A_1/subproject2_A_1_a</module>
