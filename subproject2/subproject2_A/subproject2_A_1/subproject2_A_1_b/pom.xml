@@ -15,9 +15,7 @@
 	<name>subproject2_A_1_b</name>
 	
 	<properties>
-		<maven.compiler.source>1.7</maven.compiler.source>
-		<maven.compiler.target>1.7</maven.compiler.target>
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<sonar.java.binaries>target/classes</sonar.java.binaries>
 	</properties>
 	
 	<dependencies>
