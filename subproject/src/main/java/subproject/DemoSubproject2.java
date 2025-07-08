@@ -19,6 +19,7 @@ public class DemoSubproject2 {
 	    System.out.println("");
 	    System.out.println("");
 	    System.out.println("");
+	    return foo;
  }
 
  public static DemoSubproject getFoo2() {
